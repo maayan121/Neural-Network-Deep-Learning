@@ -2,7 +2,7 @@
 """
 Maayan Eliya, Shir Gavriel, Amit Caspi, Roni Peri, Ron Amado, Topaz Ben Atar, Maya Yosef, Hila Daniel
 
-The script below predict someone's gender given their weight and height. 
+The script below predicts someone's gender given their weight and height. 
 We will represent male with a 0 and female with a 1.
 """
 
